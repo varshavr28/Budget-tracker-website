@@ -45,7 +45,7 @@ This project is a simple web application for personal budget tracking. It allows
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
+2. Open the `bud.html` file in your web browser.
 3. Sign up or log in to access your budget tracking dashboard.
 4. Start adding expenses, setting budget goals, and analyzing your spending habits!
 
