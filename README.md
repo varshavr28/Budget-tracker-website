@@ -58,7 +58,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 - So far we created a UI which displays the user's total balance, income, expenses in different categories like food, transportation, fees etc.
 - The user can add their income and expenses easily and the total balance along with the donut graph gets updated automatically.
 - A donut chart is added for easy visualization of the user information and the expenses.
-- In zip file budget tracker notif updated a flash message is added giving a warning when the balance is low.
-- 
+- In the zip file budget tracker v2 a flash message feature indicating warning signs when budget is low is added.
 
 
